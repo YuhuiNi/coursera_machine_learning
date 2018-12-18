@@ -1,1 +1,2 @@
-# coursera_machine_learning
+# machine learning
+This is the machine learning course in coursera.
